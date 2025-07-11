@@ -14,9 +14,17 @@ A simple yet modular calculator built using Python, designed to perform basic ar
 
 ---
 
-## 🗂 Project Structure
 
-calculator_project/
-├── calculator.py # Core calculator functions
-├── test_calculator.py # Unit tests using unittest
-└── README.md # Project documentation
+## 🚀 How to Run the Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/TSR1804/modular-calculator-unit-testing.git
+cd modular-calculator-unit-testing
+python test_calculator.py
+....
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK
